@@ -1,0 +1,5 @@
+Layout과 Page의 관계
+
+<Layout>
+    <Page></Page>
+</Layout>
